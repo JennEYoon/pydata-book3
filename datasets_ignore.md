@@ -1,3 +1,4 @@
-datasets folder git ignored  
-Files size too large for fec and 2 other folder.  
-Use locally on my computer only
+datasets folder part of .gitignore  
+Files too large to upload to Github.  
+
+Use locally on my computer only. 
