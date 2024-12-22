@@ -2,7 +2,7 @@
 
 > Jennifer Yoon - my practice repo, copy of Wes McKinney Pydata book 3rd ed.  
 
-<img src="PyData3rd_WesMckinney.jpg">
+<img src="PyData3rd_WesMcKinney.jpg">
 
 Materials and IPython notebooks for "Python for Data Analysis, 3rd
 Edition" by Wes McKinney, published by O'Reilly Media. Book content
